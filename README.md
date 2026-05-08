@@ -4,8 +4,13 @@ The Expense Sharing System is a console-based application developed in the C pro
 This project is useful for understanding:
 
 -Structured Programming in C
+
 -File Handling
+
 -Data Storage
+
 -Menu-Driven Applications
+
 -Financial Calculations
+
 -User Input Validation
